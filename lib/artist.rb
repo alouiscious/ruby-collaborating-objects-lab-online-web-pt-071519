@@ -14,9 +14,12 @@ def Artist
   
   def sefl.all
     @@all
+    
   end
   
-  def songs 
+  def songs
+    song.
+    @songs
     
   end
   
