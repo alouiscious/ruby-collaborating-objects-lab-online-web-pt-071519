@@ -1,3 +1,3 @@
-def assert_instance_of
+def Artist
   
   
